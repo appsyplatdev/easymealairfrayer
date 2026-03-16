@@ -1,0 +1,1494 @@
+{
+  "categories": [
+    { "id": "all", "name": "All", "icon": "🍽️" },
+    { "id": "chicken", "name": "Chicken", "icon": "🍗" },
+    { "id": "beef", "name": "Beef", "icon": "🥩" },
+    { "id": "seafood", "name": "Seafood", "icon": "🐟" },
+    { "id": "vegetarian", "name": "Vegetarian", "icon": "🥦" }
+  ],
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Crispy Air Fryer Chicken Wings",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1608039755401-742074f0548d?w=800",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "calories": "420 kcal",
+      "cookTemp": "380°F",
+      "ingredients": [
+        "1 lb chicken wings",
+        "1 tbsp olive oil",
+        "1 tsp garlic powder",
+        "1 tsp paprika",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Pat the wings dry with paper towels.",
+        "Toss with olive oil and seasonings.",
+        "Place wings in the air fryer basket.",
+        "Cook for 18–20 minutes turning halfway."
+      ],
+      "garnish": "Parsley and dipping sauce",
+      "premium": false
+    },
+    {
+      "id": "2",
+      "title": "Air Fryer BBQ Chicken Drumsticks",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
+      "prepTime": 25,
+      "difficulty": "Easy",
+      "calories": "450 kcal",
+      "cookTemp": "375°F",
+      "ingredients": [
+        "6 chicken drumsticks",
+        "1 cup BBQ sauce",
+        "1 tbsp olive oil",
+        "1 tsp smoked paprika"
+      ],
+      "steps": [
+        "Season drumsticks with oil and paprika.",
+        "Cook in air fryer for 20 minutes.",
+        "Brush with BBQ sauce.",
+        "Cook 5 more minutes."
+      ],
+      "garnish": "Fresh parsley",
+      "premium": false
+    },
+    {
+      "id": "3",
+      "title": "Garlic Parmesan Chicken Tenders",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1625944525533-473f1b2a2c10?w=800",
+      "prepTime": 15,
+      "difficulty": "Easy",
+      "calories": "380 kcal",
+      "cookTemp": "380°F",
+      "ingredients": [
+        "1 lb chicken tenders",
+        "1/2 cup parmesan cheese",
+        "1 tsp garlic powder",
+        "1 egg",
+        "1 cup breadcrumbs"
+      ],
+      "steps": [
+        "Dip chicken in egg.",
+        "Coat with parmesan and breadcrumbs.",
+        "Place in air fryer.",
+        "Cook for 12–15 minutes."
+      ],
+      "garnish": "Parmesan cheese",
+      "premium": false
+    },
+    {
+      "id": "4",
+      "title": "Air Fryer Steak Bites",
+      "category": "beef",
+      "image": "https://images.unsplash.com/photo-1600891964092-4316c288032e?w=800",
+      "prepTime": 10,
+      "difficulty": "Easy",
+      "calories": "390 kcal",
+      "cookTemp": "400°F",
+      "ingredients": [
+        "1 lb sirloin steak",
+        "1 tbsp olive oil",
+        "1 tsp garlic powder",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Cut steak into cubes.",
+        "Season with oil and spices.",
+        "Place in air fryer basket.",
+        "Cook 8–10 minutes shaking halfway."
+      ],
+      "garnish": "Chopped parsley",
+      "premium": false
+    },
+    {
+      "id": "5",
+      "title": "Air Fryer Cheeseburger",
+      "category": "beef",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800",
+      "prepTime": 12,
+      "difficulty": "Easy",
+      "calories": "520 kcal",
+      "cookTemp": "375°F",
+      "ingredients": [
+        "2 burger patties",
+        "2 burger buns",
+        "2 slices cheddar cheese",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Season burger patties.",
+        "Cook in air fryer for 8 minutes.",
+        "Add cheese during the last minute.",
+        "Serve in toasted buns."
+      ],
+      "garnish": "Lettuce and tomato",
+      "premium": false
+    },
+    {
+      "id": "6",
+      "title": "Air Fryer Salmon Fillet",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800",
+      "prepTime": 10,
+      "difficulty": "Easy",
+      "calories": "350 kcal",
+      "cookTemp": "390°F",
+      "ingredients": [
+        "2 salmon fillets",
+        "1 tbsp olive oil",
+        "1 tsp garlic powder",
+        "Lemon slices"
+      ],
+      "steps": [
+        "Brush salmon with olive oil.",
+        "Season with garlic powder.",
+        "Place in air fryer.",
+        "Cook for 10 minutes."
+      ],
+      "garnish": "Fresh lemon",
+      "premium": false
+    },
+    {
+      "id": "7",
+      "title": "Air Fryer Shrimp",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?w=800",
+      "prepTime": 8,
+      "difficulty": "Easy",
+      "calories": "220 kcal",
+      "cookTemp": "400°F",
+      "ingredients": [
+        "1 lb shrimp",
+        "1 tbsp olive oil",
+        "1 tsp paprika",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Season shrimp.",
+        "Place in air fryer basket.",
+        "Cook for 6–8 minutes.",
+        "Shake basket halfway."
+      ],
+      "garnish": "Lemon wedges",
+      "premium": false
+    },
+    {
+      "id": "8",
+      "title": "Air Fryer Fish Tacos",
+      "category": "seafood",
+      "image": "https://images.unsplash.com/photo-1552332386-f8dd00dc2f85?w=800",
+      "prepTime": 15,
+      "difficulty": "Easy",
+      "calories": "420 kcal",
+      "cookTemp": "380°F",
+      "ingredients": [
+        "2 white fish fillets",
+        "4 tortillas",
+        "1 tsp chili powder",
+        "1 tbsp olive oil"
+      ],
+      "steps": [
+        "Season fish.",
+        "Cook in air fryer for 10 minutes.",
+        "Flake fish into tortillas.",
+        "Add toppings."
+      ],
+      "garnish": "Cabbage and lime",
+      "premium": false
+    },
+    {
+      "id": "9",
+      "title": "Air Fryer French Fries",
+      "category": "vegetarian",
+      "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?w=800",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "calories": "300 kcal",
+      "cookTemp": "400°F",
+      "ingredients": [
+        "2 potatoes",
+        "1 tbsp olive oil",
+        "Salt"
+      ],
+      "steps": [
+        "Cut potatoes into fries.",
+        "Toss with oil and salt.",
+        "Cook for 18–20 minutes.",
+        "Shake basket halfway."
+      ],
+      "garnish": "Parsley",
+      "premium": false
+    },
+    {
+      "id": "10",
+      "title": "Air Fryer Sweet Potato Fries",
+      "category": "vegetarian",
+      "image": "https://images.unsplash.com/photo-1604908176997-4316c288032e?w=800",
+      "prepTime": 18,
+      "difficulty": "Easy",
+      "calories": "280 kcal",
+      "cookTemp": "400°F",
+      "ingredients": [
+        "2 sweet potatoes",
+        "1 tbsp olive oil",
+        "1 tsp paprika"
+      ],
+      "steps": [
+        "Cut sweet potatoes into fries.",
+        "Season with oil and paprika.",
+        "Air fry for 15–18 minutes.",
+        "Shake halfway."
+      ],
+      "garnish": "Sea salt",
+      "premium": false
+    },
+
+    {
+      "id": "11",
+      "title": "Air Fryer Chicken Breast",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1600891963935-cb2d6e0a6fbb?w=800",
+      "prepTime": 18,
+      "difficulty": "Easy",
+      "calories": "350 kcal",
+      "cookTemp": "380°F",
+      "ingredients": [
+        "2 chicken breasts",
+        "1 tbsp olive oil",
+        "1 tsp garlic powder",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Season chicken with spices.",
+        "Place in air fryer basket.",
+        "Cook for 16–18 minutes.",
+        "Rest before slicing."
+      ],
+      "garnish": "Fresh herbs",
+      "premium": false
+    },
+
+    {
+      "id": "12",
+      "title": "Air Fryer Chicken Quesadilla",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1618040996337-56904b7850b9?w=800",
+      "prepTime": 12,
+      "difficulty": "Easy",
+      "calories": "430 kcal",
+      "cookTemp": "370°F",
+      "ingredients": [
+        "2 tortillas",
+        "1 cup shredded chicken",
+        "1/2 cup cheese",
+        "1 tbsp salsa"
+      ],
+      "steps": [
+        "Fill tortilla with chicken and cheese.",
+        "Fold in half.",
+        "Cook in air fryer 6–8 minutes.",
+        "Slice and serve."
+      ],
+      "garnish": "Sour cream",
+      "premium": false
+    },
+
+    {
+      "id": "13",
+      "title": "Air Fryer Stuffed Peppers",
+      "category": "vegetarian",
+      "image": "https://images.unsplash.com/photo-1604908177087-4316c288032e?w=800",
+      "prepTime": 20,
+      "difficulty": "Medium",
+      "calories": "300 kcal",
+      "cookTemp": "370°F",
+      "ingredients": [
+        "3 bell peppers",
+        "1 cup rice",
+        "1/2 cup cheese",
+        "1/2 cup tomato sauce"
+      ],
+      "steps": [
+        "Cut tops off peppers.",
+        "Fill with rice mixture.",
+        "Top with cheese.",
+        "Cook 15 minutes."
+      ],
+      "garnish": "Parsley",
+      "premium": false
+    },
+
+    {
+      "id": "14",
+      "title": "Air Fryer Chicken Nuggets",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1625944525533-473f1b2a2c10?w=800",
+      "prepTime": 15,
+      "difficulty": "Easy",
+      "calories": "350 kcal",
+      "cookTemp": "380°F",
+      "ingredients": [
+        "1 lb chicken breast",
+        "1 egg",
+        "1 cup breadcrumbs",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Cut chicken into pieces.",
+        "Dip in egg and coat in breadcrumbs.",
+        "Cook 12–14 minutes.",
+        "Flip halfway."
+      ],
+      "garnish": "Ketchup",
+      "premium": false
+    },
+
+    {
+      "id": "15",
+      "title": "Air Fryer Garlic Mushrooms",
+      "category": "vegetarian",
+      "image": "https://images.unsplash.com/photo-1514516873439-dcf1c8a6c02a?w=800",
+      "prepTime": 10,
+      "difficulty": "Easy",
+      "calories": "180 kcal",
+      "cookTemp": "370°F",
+      "ingredients": [
+        "2 cups mushrooms",
+        "1 tbsp olive oil",
+        "1 tsp garlic powder"
+      ],
+      "steps": [
+        "Toss mushrooms with oil and seasoning.",
+        "Place in air fryer.",
+        "Cook for 8 minutes.",
+        "Shake basket halfway."
+      ],
+      "garnish": "Parsley",
+      "premium": false
+    },
+
+    {
+      "id": "16",
+      "title": "Air Fryer Chicken Wrap",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1601315488950-3b5047998b38?w=800",
+      "prepTime": 10,
+      "difficulty": "Easy",
+      "calories": "410 kcal",
+      "cookTemp": "370°F",
+      "ingredients": [
+        "1 tortilla",
+        "1 cup cooked chicken",
+        "1/2 cup lettuce",
+        "1 tbsp ranch dressing"
+      ],
+      "steps": [
+        "Fill tortilla with ingredients.",
+        "Wrap tightly.",
+        "Cook 5–6 minutes in air fryer.",
+        "Slice and serve."
+      ],
+      "garnish": "Extra ranch",
+      "premium": false
+    },
+
+    {
+      "id": "17",
+      "title": "Air Fryer Meatballs",
+      "category": "beef",
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800",
+      "prepTime": 15,
+      "difficulty": "Easy",
+      "calories": "360 kcal",
+      "cookTemp": "380°F",
+      "ingredients": [
+        "1 lb ground beef",
+        "1 egg",
+        "1/2 cup breadcrumbs",
+        "1 tsp garlic powder"
+      ],
+      "steps": [
+        "Mix ingredients.",
+        "Form small meatballs.",
+        "Cook 12–14 minutes.",
+        "Turn halfway."
+      ],
+      "garnish": "Parmesan",
+      "premium": false
+    },
+
+    {
+      "id": "18",
+      "title": "Air Fryer Broccoli",
+      "category": "vegetarian",
+      "image": "https://images.unsplash.com/photo-1584270354949-1f3c3c2a53c1?w=800",
+      "prepTime": 8,
+      "difficulty": "Easy",
+      "calories": "120 kcal",
+      "cookTemp": "380°F",
+      "ingredients": [
+        "2 cups broccoli",
+        "1 tbsp olive oil",
+        "Salt and pepper"
+      ],
+      "steps": [
+        "Toss broccoli with oil.",
+        "Place in air fryer.",
+        "Cook for 8 minutes.",
+        "Shake halfway."
+      ],
+      "garnish": "Lemon zest",
+      "premium": false
+    },
+
+    {
+      "id": "19",
+      "title": "Air Fryer Chicken Sandwich",
+      "category": "chicken",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800",
+      "prepTime": 18,
+      "difficulty": "Easy",
+      "calories": "520 kcal",
+      "cookTemp": "380°F",
+      "ingredients": [
+        "1 chicken breast",
+        "1 burger bun",
+        "1 slice cheese",
+        "Lettuce and mayo"
+      ],
+      "steps": [
+        "Season chicken.",
+        "Cook in air fryer for 15 minutes.",
+        "Place on bun with toppings.",
+        "Serve hot."
+      ],
+      "garnish": "Pickles",
+      "premium": false
+    },
+
+    {
+      "id": "20",
+      "title": "Air Fryer Zucchini Chips",
+      "category": "vegetarian",
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800",
+      "prepTime": 12,
+      "difficulty": "Easy",
+      "calories": "160 kcal",
+      "cookTemp": "375°F",
+      "ingredients": [
+        "1 zucchini",
+        "1 egg",
+        "1/2 cup breadcrumbs",
+        "1/4 cup parmesan"
+      ],
+      "steps": [
+        "Slice zucchini.",
+        "Dip in egg then breadcrumbs.",
+        "Cook for 10 minutes.",
+        "Flip halfway."
+      ],
+      "garnish": "Parmesan",
+      "premium": false
+  },
+
+    {
+"id":"21",
+"title":"Air Fryer Honey Garlic Chicken",
+"category":"chicken",
+"image":"https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=800",
+"prepTime":18,
+"difficulty":"Easy",
+"calories":"420 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"2 chicken thighs",
+"2 tbsp honey",
+"1 tbsp soy sauce",
+"2 cloves garlic",
+"1 tsp olive oil"
+],
+"steps":[
+"Mix honey, soy sauce and garlic.",
+"Brush mixture over chicken.",
+"Place in air fryer basket.",
+"Cook 16–18 minutes turning once."
+],
+"garnish":"Sesame seeds",
+"premium":false
+},
+
+{
+"id":"22",
+"title":"Air Fryer Lemon Chicken Thighs",
+"category":"chicken",
+"image":"https://images.unsplash.com/photo-1525755662778-989d0524087e?w=800",
+"prepTime":20,
+"difficulty":"Easy",
+"calories":"410 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"2 chicken thighs",
+"1 tbsp olive oil",
+"1 tsp lemon zest",
+"1 tsp garlic powder",
+"Salt and pepper"
+],
+"steps":[
+"Season chicken with oil and spices.",
+"Place in air fryer basket.",
+"Cook 18–20 minutes.",
+"Turn halfway for even crisp."
+],
+"garnish":"Lemon slices",
+"premium":false
+},
+
+{
+"id":"23",
+"title":"Air Fryer Teriyaki Chicken",
+"category":"chicken",
+"image":"https://images.unsplash.com/photo-1514516870926-20598989d1c7?w=800",
+"prepTime":17,
+"difficulty":"Easy",
+"calories":"430 kcal",
+"cookTemp":"375°F",
+"ingredients":[
+"2 chicken breasts",
+"1/3 cup teriyaki sauce",
+"1 tsp sesame oil",
+"1 tsp garlic powder"
+],
+"steps":[
+"Coat chicken with teriyaki sauce.",
+"Place in air fryer.",
+"Cook 15–17 minutes.",
+"Brush extra sauce before serving."
+],
+"garnish":"Green onions",
+"premium":false
+},
+
+{
+"id":"24",
+"title":"Air Fryer Chicken Fajitas",
+"category":"chicken",
+"image":"https://images.unsplash.com/photo-1552332386-f8dd00dc2f85?w=800",
+"prepTime":15,
+"difficulty":"Easy",
+"calories":"390 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"1 chicken breast sliced",
+"1 bell pepper",
+"1 onion",
+"1 tbsp fajita seasoning",
+"1 tbsp olive oil"
+],
+"steps":[
+"Slice chicken and vegetables.",
+"Toss with oil and seasoning.",
+"Place in air fryer basket.",
+"Cook 12–15 minutes shaking halfway."
+],
+"garnish":"Fresh cilantro",
+"premium":false
+},
+
+{
+"id":"25",
+"title":"Air Fryer Garlic Butter Steak",
+"category":"beef",
+"image":"https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800",
+"prepTime":12,
+"difficulty":"Easy",
+"calories":"480 kcal",
+"cookTemp":"400°F",
+"ingredients":[
+"1 steak",
+"1 tbsp butter",
+"2 cloves garlic",
+"Salt and pepper"
+],
+"steps":[
+"Season steak.",
+"Cook in air fryer for 8–10 minutes.",
+"Melt butter with garlic.",
+"Drizzle butter over steak."
+],
+"garnish":"Fresh parsley",
+"premium":false
+},
+
+{
+"id":"26",
+"title":"Air Fryer Beef Tacos",
+"category":"beef",
+"image":"https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=800",
+"prepTime":14,
+"difficulty":"Easy",
+"calories":"450 kcal",
+"cookTemp":"375°F",
+"ingredients":[
+"1/2 lb ground beef",
+"1 tbsp taco seasoning",
+"4 taco shells",
+"1/2 cup shredded cheese"
+],
+"steps":[
+"Cook beef in air fryer-safe pan.",
+"Add taco seasoning.",
+"Fill taco shells with beef.",
+"Air fry tacos for 4 minutes."
+],
+"garnish":"Lettuce and tomato",
+"premium":false
+},
+
+{
+"id":"27",
+"title":"Air Fryer Meatball Subs",
+"category":"beef",
+"image":"https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642?w=800",
+"prepTime":18,
+"difficulty":"Easy",
+"calories":"520 kcal",
+"cookTemp":"375°F",
+"ingredients":[
+"6 cooked meatballs",
+"1 hoagie roll",
+"1/2 cup marinara sauce",
+"1/2 cup mozzarella"
+],
+"steps":[
+"Place meatballs in bread.",
+"Add marinara sauce.",
+"Top with cheese.",
+"Air fry 6–8 minutes."
+],
+"garnish":"Parmesan",
+"premium":false
+},
+
+{
+"id":"28",
+"title":"Air Fryer Tuna Patties",
+"category":"seafood",
+"image":"https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800",
+"prepTime":12,
+"difficulty":"Easy",
+"calories":"310 kcal",
+"cookTemp":"375°F",
+"ingredients":[
+"1 can tuna",
+"1 egg",
+"1/2 cup breadcrumbs",
+"1 tsp garlic powder"
+],
+"steps":[
+"Mix ingredients.",
+"Form small patties.",
+"Place in air fryer.",
+"Cook 10–12 minutes."
+],
+"garnish":"Lemon wedges",
+"premium":false
+},
+
+{
+"id":"29",
+"title":"Air Fryer Cod Fillet",
+"category":"seafood",
+"image":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=800",
+"prepTime":12,
+"difficulty":"Easy",
+"calories":"260 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"2 cod fillets",
+"1 tbsp olive oil",
+"1 tsp paprika",
+"Salt and pepper"
+],
+"steps":[
+"Season cod fillets.",
+"Place in air fryer basket.",
+"Cook 10–12 minutes.",
+"Serve immediately."
+],
+"garnish":"Lemon slices",
+"premium":false
+},
+
+{
+"id":"30",
+"title":"Air Fryer Coconut Shrimp",
+"category":"seafood",
+"image":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800",
+"prepTime":16,
+"difficulty":"Medium",
+"calories":"360 kcal",
+"cookTemp":"375°F",
+"ingredients":[
+"1 lb shrimp",
+"1/2 cup shredded coconut",
+"1/2 cup breadcrumbs",
+"1 egg"
+],
+"steps":[
+"Dip shrimp in egg.",
+"Coat with coconut and breadcrumbs.",
+"Place in air fryer.",
+"Cook 8–10 minutes."
+],
+"garnish":"Sweet chili sauce",
+"premium":false
+},
+
+{
+"id":"31",
+"title":"Air Fryer Cauliflower Bites",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1562967916-eb82221dfb92?w=800",
+"prepTime":15,
+"difficulty":"Easy",
+"calories":"200 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"2 cups cauliflower florets",
+"1 tbsp olive oil",
+"1 tsp paprika",
+"Salt"
+],
+"steps":[
+"Toss cauliflower with oil.",
+"Season with spices.",
+"Place in air fryer.",
+"Cook 12–15 minutes."
+],
+"garnish":"Fresh parsley",
+"premium":false
+},
+
+{
+"id":"32",
+"title":"Air Fryer Zucchini Fries",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1608032077018-c9aad9565d29?w=800",
+"prepTime":12,
+"difficulty":"Easy",
+"calories":"210 kcal",
+"cookTemp":"375°F",
+"ingredients":[
+"1 zucchini",
+"1 egg",
+"1/2 cup breadcrumbs",
+"Salt"
+],
+"steps":[
+"Cut zucchini into sticks.",
+"Dip in egg and breadcrumbs.",
+"Place in air fryer.",
+"Cook 10–12 minutes."
+],
+"garnish":"Parmesan",
+"premium":false
+},
+
+{
+"id":"33",
+"title":"Air Fryer Stuffed Mushrooms",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1604908176997-4316c288032e?w=800",
+"prepTime":15,
+"difficulty":"Easy",
+"calories":"230 kcal",
+"cookTemp":"370°F",
+"ingredients":[
+"8 mushrooms",
+"1/2 cup cream cheese",
+"1/4 cup parmesan",
+"1 tsp garlic powder"
+],
+"steps":[
+"Remove mushroom stems.",
+"Mix filling ingredients.",
+"Fill mushrooms.",
+"Air fry 10 minutes."
+],
+"garnish":"Parsley",
+"premium":false
+},
+
+{
+"id":"34",
+"title":"Air Fryer Baked Potato",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1604908177087-4316c288032e?w=800",
+"prepTime":35,
+"difficulty":"Easy",
+"calories":"280 kcal",
+"cookTemp":"400°F",
+"ingredients":[
+"2 russet potatoes",
+"1 tbsp olive oil",
+"Salt"
+],
+"steps":[
+"Rub potatoes with oil and salt.",
+"Place in air fryer.",
+"Cook 35 minutes.",
+"Slice open and serve."
+],
+"garnish":"Butter and chives",
+"premium":false
+},
+
+{
+"id":"35",
+"title":"Air Fryer Veggie Quesadilla",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1618040996337-56904b7850b9?w=800",
+"prepTime":10,
+"difficulty":"Easy",
+"calories":"360 kcal",
+"cookTemp":"370°F",
+"ingredients":[
+"2 tortillas",
+"1/2 cup cheese",
+"1/2 cup mixed vegetables"
+],
+"steps":[
+"Fill tortilla with veggies and cheese.",
+"Fold tortilla.",
+"Air fry 6 minutes.",
+"Slice and serve."
+],
+"garnish":"Salsa",
+"premium":false
+},
+
+{
+"id":"36",
+"title":"Air Fryer Eggplant Parmesan",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800",
+"prepTime":18,
+"difficulty":"Medium",
+"calories":"350 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"1 eggplant",
+"1 egg",
+"1/2 cup breadcrumbs",
+"1/2 cup marinara sauce",
+"1/2 cup mozzarella"
+],
+"steps":[
+"Slice eggplant.",
+"Dip in egg and breadcrumbs.",
+"Air fry 12 minutes.",
+"Top with sauce and cheese."
+],
+"garnish":"Basil",
+"premium":false
+},
+
+{
+"id":"37",
+"title":"Air Fryer Turkey Burger",
+"category":"beef",
+"image":"https://images.unsplash.com/photo-1550547660-d9450f859349?w=800",
+"prepTime":14,
+"difficulty":"Easy",
+"calories":"390 kcal",
+"cookTemp":"375°F",
+"ingredients":[
+"2 turkey patties",
+"2 buns",
+"Salt and pepper",
+"Lettuce"
+],
+"steps":[
+"Season turkey patties.",
+"Air fry 10–12 minutes.",
+"Place on bun.",
+"Add toppings."
+],
+"garnish":"Tomato slices",
+"premium":false
+},
+
+{
+"id":"38",
+"title":"Air Fryer Sausage and Peppers",
+"category":"beef",
+"image":"https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642?w=800",
+"prepTime":16,
+"difficulty":"Easy",
+"calories":"420 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"2 sausages",
+"1 bell pepper",
+"1 onion",
+"1 tbsp olive oil"
+],
+"steps":[
+"Slice peppers and onions.",
+"Toss with oil.",
+"Add sausages.",
+"Cook 15 minutes."
+],
+"garnish":"Italian herbs",
+"premium":false
+},
+
+{
+"id":"39",
+"title":"Air Fryer Tilapia",
+"category":"seafood",
+"image":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=800",
+"prepTime":10,
+"difficulty":"Easy",
+"calories":"250 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"2 tilapia fillets",
+"1 tbsp olive oil",
+"1 tsp garlic powder"
+],
+"steps":[
+"Season tilapia.",
+"Place in air fryer.",
+"Cook 8–10 minutes.",
+"Serve immediately."
+],
+"garnish":"Lemon",
+"premium":false
+},
+
+{
+"id":"40",
+"title":"Air Fryer Crispy Tofu",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800",
+"prepTime":15,
+"difficulty":"Easy",
+"calories":"230 kcal",
+"cookTemp":"390°F",
+"ingredients":[
+"1 block tofu",
+"1 tbsp soy sauce",
+"1 tbsp cornstarch",
+"1 tsp sesame oil"
+],
+"steps":[
+"Cut tofu into cubes.",
+"Toss with soy sauce and cornstarch.",
+"Place in air fryer.",
+"Cook 12–15 minutes."
+],
+"garnish":"Green onions",
+"premium":false
+},
+
+{
+  [
+{
+"id":"41",
+"title":"Air Fryer Buffalo Chicken Bites",
+"category":"chicken",
+"image":"https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=800",
+"prepTime":15,
+"difficulty":"Easy",
+"calories":"410 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"1 lb chicken breast cubes",
+"1/3 cup buffalo sauce",
+"1 tbsp olive oil",
+"Salt and pepper"
+],
+"steps":[
+"Season chicken cubes.",
+"Cook in air fryer for 12 minutes.",
+"Toss with buffalo sauce.",
+"Cook 3 more minutes."
+],
+"garnish":"Celery sticks",
+"premium":false
+},
+
+{
+"id":"42",
+"title":"Air Fryer Chicken Shawarma",
+"category":"chicken",
+"image":"https://images.unsplash.com/photo-1600891964092-4316c288032e?w=800",
+"prepTime":18,
+"difficulty":"Easy",
+"calories":"420 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"2 chicken thighs sliced",
+"1 tbsp shawarma seasoning",
+"1 tbsp olive oil",
+"1 tsp garlic powder"
+],
+"steps":[
+"Toss chicken with oil and spices.",
+"Place in air fryer basket.",
+"Cook 15–18 minutes.",
+"Shake halfway."
+],
+"garnish":"Parsley",
+"premium":false
+},
+
+{
+"id":"43",
+"title":"Air Fryer Chicken Meatballs",
+"category":"chicken",
+"image":"https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642?w=800",
+"prepTime":16,
+"difficulty":"Easy",
+"calories":"360 kcal",
+"cookTemp":"375°F",
+"ingredients":[
+"1 lb ground chicken",
+"1 egg",
+"1/2 cup breadcrumbs",
+"1 tsp garlic powder"
+],
+"steps":[
+"Mix ingredients.",
+"Form meatballs.",
+"Place in air fryer.",
+"Cook 12–14 minutes."
+],
+"garnish":"Parmesan",
+"premium":false
+},
+
+{
+"id":"44",
+"title":"Air Fryer Pepper Steak Strips",
+"category":"beef",
+"image":"https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800",
+"prepTime":14,
+"difficulty":"Easy",
+"calories":"470 kcal",
+"cookTemp":"400°F",
+"ingredients":[
+"1 lb steak strips",
+"1 tbsp olive oil",
+"1 tsp black pepper",
+"Salt"
+],
+"steps":[
+"Toss steak with oil and seasoning.",
+"Place in air fryer basket.",
+"Cook 8–10 minutes.",
+"Shake halfway."
+],
+"garnish":"Green onions",
+"premium":false
+},
+
+{
+"id":"45",
+"title":"Air Fryer Beef Kofta",
+"category":"beef",
+"image":"https://images.unsplash.com/photo-1525755662778-989d0524087e?w=800",
+"prepTime":18,
+"difficulty":"Medium",
+"calories":"430 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"1 lb ground beef",
+"1 tsp cumin",
+"1 tsp garlic powder",
+"Salt and pepper"
+],
+"steps":[
+"Mix beef with spices.",
+"Form sausage shapes.",
+"Place in air fryer.",
+"Cook 12–15 minutes."
+],
+"garnish":"Yogurt sauce",
+"premium":false
+},
+
+{
+"id":"46",
+"title":"Air Fryer Philly Cheesesteak Wrap",
+"category":"beef",
+"image":"https://images.unsplash.com/photo-1601315488950-3b5047998b38?w=800",
+"prepTime":16,
+"difficulty":"Easy",
+"calories":"500 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"1/2 lb steak strips",
+"1 tortilla",
+"1/2 cup cheese",
+"1/2 onion sliced"
+],
+"steps":[
+"Cook steak and onion in air fryer.",
+"Add cheese and tortilla wrap.",
+"Cook 3–4 minutes.",
+"Serve hot."
+],
+"garnish":"Peppers",
+"premium":false
+},
+
+{
+"id":"47",
+"title":"Air Fryer Garlic Butter Shrimp",
+"category":"seafood",
+"image":"https://images.unsplash.com/photo-1562967916-eb82221dfb92?w=800",
+"prepTime":10,
+"difficulty":"Easy",
+"calories":"260 kcal",
+"cookTemp":"390°F",
+"ingredients":[
+"1 lb shrimp",
+"1 tbsp butter",
+"2 cloves garlic",
+"Salt"
+],
+"steps":[
+"Melt butter with garlic.",
+"Toss shrimp in mixture.",
+"Place in air fryer.",
+"Cook 7–8 minutes."
+],
+"garnish":"Parsley",
+"premium":false
+},
+
+{
+"id":"48",
+"title":"Air Fryer Lemon Tilapia",
+"category":"seafood",
+"image":"https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=800",
+"prepTime":10,
+"difficulty":"Easy",
+"calories":"240 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"2 tilapia fillets",
+"1 tbsp olive oil",
+"1 tsp lemon juice",
+"Salt and pepper"
+],
+"steps":[
+"Brush tilapia with oil and lemon.",
+"Season with salt and pepper.",
+"Place in air fryer.",
+"Cook 8–10 minutes."
+],
+"garnish":"Lemon slices",
+"premium":false
+},
+
+{
+"id":"49",
+"title":"Air Fryer Breaded Fish Fillets",
+"category":"seafood",
+"image":"https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800",
+"prepTime":14,
+"difficulty":"Easy",
+"calories":"320 kcal",
+"cookTemp":"390°F",
+"ingredients":[
+"2 white fish fillets",
+"1 egg",
+"1/2 cup breadcrumbs",
+"Salt"
+],
+"steps":[
+"Dip fish in egg.",
+"Coat with breadcrumbs.",
+"Place in air fryer.",
+"Cook 10–12 minutes."
+],
+"garnish":"Tartar sauce",
+"premium":false
+},
+
+{
+"id":"50",
+"title":"Air Fryer Veggie Spring Rolls",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1608032077018-c9aad9565d29?w=800",
+"prepTime":15,
+"difficulty":"Medium",
+"calories":"260 kcal",
+"cookTemp":"375°F",
+"ingredients":[
+"6 spring roll wrappers",
+"1 cup shredded cabbage",
+"1 carrot shredded",
+"1 tbsp soy sauce"
+],
+"steps":[
+"Fill wrappers with vegetables.",
+"Roll tightly.",
+"Place in air fryer.",
+"Cook 10–12 minutes."
+],
+"garnish":"Sweet chili sauce",
+"premium":false
+},
+
+{
+"id":"51",
+"title":"Air Fryer Garlic Green Beans",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1584270354949-1f3c3c2a53c1?w=800",
+"prepTime":8,
+"difficulty":"Easy",
+"calories":"120 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"2 cups green beans",
+"1 tbsp olive oil",
+"1 tsp garlic powder"
+],
+"steps":[
+"Toss beans with oil.",
+"Season with garlic powder.",
+"Air fry 8 minutes.",
+"Shake halfway."
+],
+"garnish":"Sea salt",
+"premium":false
+},
+
+{
+"id":"52",
+"title":"Air Fryer Corn on the Cob",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1506806732259-39c2d0268443?w=800",
+"prepTime":12,
+"difficulty":"Easy",
+"calories":"180 kcal",
+"cookTemp":"400°F",
+"ingredients":[
+"2 corn cobs",
+"1 tbsp butter",
+"Salt"
+],
+"steps":[
+"Brush corn with butter.",
+"Place in air fryer.",
+"Cook 10–12 minutes.",
+"Turn halfway."
+],
+"garnish":"Chili powder",
+"premium":false
+},
+
+{
+"id":"53",
+"title":"Air Fryer Roasted Carrots",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1447175008436-054170c2e979?w=800",
+"prepTime":14,
+"difficulty":"Easy",
+"calories":"160 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"2 cups carrot sticks",
+"1 tbsp olive oil",
+"1 tsp honey",
+"Salt"
+],
+"steps":[
+"Toss carrots with oil and honey.",
+"Place in air fryer.",
+"Cook 12–14 minutes.",
+"Shake halfway."
+],
+"garnish":"Parsley",
+"premium":false
+},
+
+{
+"id":"54",
+"title":"Air Fryer Roasted Brussels Sprouts",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?w=800",
+"prepTime":12,
+"difficulty":"Easy",
+"calories":"170 kcal",
+"cookTemp":"380°F",
+"ingredients":[
+"2 cups Brussels sprouts",
+"1 tbsp olive oil",
+"Salt and pepper"
+],
+"steps":[
+"Toss sprouts with oil.",
+"Season with salt and pepper.",
+"Air fry 12 minutes.",
+"Shake halfway."
+],
+"garnish":"Parmesan",
+"premium":false
+},
+
+{
+"id":"55",
+"title":"Air Fryer Cheese Stuffed Peppers",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1604908177087-4316c288032e?w=800",
+"prepTime":16,
+"difficulty":"Easy",
+"calories":"300 kcal",
+"cookTemp":"375°F",
+"ingredients":[
+"2 bell peppers",
+"1/2 cup mozzarella",
+"1/4 cup cream cheese"
+],
+"steps":[
+"Cut peppers in half.",
+"Fill with cheese mixture.",
+"Place in air fryer.",
+"Cook 10–12 minutes."
+],
+"garnish":"Parsley",
+"premium":false
+},
+
+{
+"id":"56",
+"title":"Air Fryer Tofu Nuggets",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800",
+"prepTime":15,
+"difficulty":"Easy",
+"calories":"220 kcal",
+"cookTemp":"390°F",
+"ingredients":[
+"1 block tofu cubes",
+"1 tbsp soy sauce",
+"1/2 cup breadcrumbs"
+],
+"steps":[
+"Toss tofu in soy sauce.",
+"Coat with breadcrumbs.",
+"Place in air fryer.",
+"Cook 12–14 minutes."
+],
+"garnish":"Green onions",
+"premium":false
+},
+
+{
+"id":"57",
+"title":"Air Fryer Avocado Fries",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1608032077018-c9aad9565d29?w=800",
+"prepTime":12,
+"difficulty":"Easy",
+"calories":"280 kcal",
+"cookTemp":"375°F",
+"ingredients":[
+"1 avocado sliced",
+"1 egg",
+"1/2 cup breadcrumbs"
+],
+"steps":[
+"Dip avocado in egg.",
+"Coat with breadcrumbs.",
+"Place in air fryer.",
+"Cook 8–10 minutes."
+],
+"garnish":"Lime wedges",
+"premium":false
+},
+
+{
+"id":"58",
+"title":"Air Fryer Loaded Potato Skins",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1604908177087-4316c288032e?w=800",
+"prepTime":20,
+"difficulty":"Easy",
+"calories":"420 kcal",
+"cookTemp":"390°F",
+"ingredients":[
+"2 baked potatoes",
+"1/2 cup cheese",
+"2 tbsp sour cream"
+],
+"steps":[
+"Scoop potato centers.",
+"Fill skins with cheese.",
+"Air fry 6–8 minutes.",
+"Add sour cream."
+],
+"garnish":"Chives",
+"premium":false
+},
+
+{
+"id":"59",
+"title":"Air Fryer Veggie Burger",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1550547660-d9450f859349?w=800",
+"prepTime":12,
+"difficulty":"Easy",
+"calories":"340 kcal",
+"cookTemp":"375°F",
+"ingredients":[
+"2 veggie burger patties",
+"2 buns",
+"Lettuce",
+"Tomato"
+],
+"steps":[
+"Place patties in air fryer.",
+"Cook 8–10 minutes.",
+"Assemble burger with toppings.",
+"Serve hot."
+],
+"garnish":"Pickles",
+"premium":false
+},
+
+{
+"id":"60",
+"title":"Air Fryer Crispy Chickpeas",
+"category":"vegetarian",
+"image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800",
+"prepTime":15,
+"difficulty":"Easy",
+"calories":"200 kcal",
+"cookTemp":"390°F",
+"ingredients":[
+"1 can chickpeas drained",
+"1 tbsp olive oil",
+"1 tsp paprika",
+"Salt"
+],
+"steps":[
+"Toss chickpeas with oil and spices.",
+"Place in air fryer basket.",
+"Cook 12–15 minutes.",
+"Shake halfway."
+],
+"garnish":"Sea salt",
+"premium":false
+}
+]
