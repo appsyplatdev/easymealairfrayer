@@ -1438,6 +1438,900 @@
       ],
       "garnish": "Sea salt",
       "premium": false
-    }
-  ]
-}
+  },
+    {
+      "id": "61",
+    "title": "Air Fryer BBQ Chicken Wings",
+    "category": "chicken",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/61.png",
+    "prepTime": 20,
+    "difficulty": "Easy",
+    "calories": "430 kcal",
+    "cookTemp": "380°F",
+    "ingredients": [
+      "1 lb chicken wings",
+      "1/2 cup BBQ sauce",
+      "1 tbsp olive oil",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Season wings with oil, salt, and pepper.",
+      "Place in air fryer basket.",
+      "Cook 18 minutes flipping halfway.",
+      "Brush with BBQ sauce and cook 2 more minutes."
+    ],
+    "garnish": "Fresh parsley",
+    "premium": false
+  },
+  {
+    "id": "62",
+    "title": "Air Fryer Chicken Alfredo Wrap",
+    "category": "chicken",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/62.png",
+    "prepTime": 12,
+    "difficulty": "Easy",
+    "calories": "440 kcal",
+    "cookTemp": "370°F",
+    "ingredients": [
+      "1 tortilla",
+      "1 cup cooked chicken",
+      "1/3 cup Alfredo sauce",
+      "1/4 cup cheese"
+    ],
+    "steps": [
+      "Mix chicken with Alfredo sauce.",
+      "Place inside tortilla with cheese.",
+      "Wrap tightly.",
+      "Air fry for 6–7 minutes."
+    ],
+    "garnish": "Parmesan",
+    "premium": false
+  },
+  {
+    "id": "63",
+    "title": "Air Fryer Spicy Chicken Thighs",
+    "category": "chicken",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/63.png",
+    "prepTime": 18,
+    "difficulty": "Easy",
+    "calories": "420 kcal",
+    "cookTemp": "380°F",
+    "ingredients": [
+      "2 chicken thighs",
+      "1 tbsp hot sauce",
+      "1 tsp paprika",
+      "1 tbsp olive oil"
+    ],
+    "steps": [
+      "Coat chicken with oil and spices.",
+      "Add hot sauce.",
+      "Place in air fryer.",
+      "Cook 18 minutes turning halfway."
+    ],
+    "garnish": "Green onions",
+    "premium": false
+  },
+  {
+    "id": "64",
+    "title": "Air Fryer Beef Burrito",
+    "category": "beef",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/64.png",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "calories": "520 kcal",
+    "cookTemp": "375°F",
+    "ingredients": [
+      "1 tortilla",
+      "1/2 cup cooked beef",
+      "1/2 cup rice",
+      "1/4 cup cheese"
+    ],
+    "steps": [
+      "Fill tortilla with beef, rice and cheese.",
+      "Wrap tightly.",
+      "Place in air fryer.",
+      "Cook for 6–8 minutes."
+    ],
+    "garnish": "Salsa",
+    "premium": false
+  },
+  {
+    "id": "65",
+    "title": "Air Fryer Steak Quesadilla",
+    "category": "beef",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/65.png",
+    "prepTime": 12,
+    "difficulty": "Easy",
+    "calories": "480 kcal",
+    "cookTemp": "370°F",
+    "ingredients": [
+      "2 tortillas",
+      "1/2 cup steak strips",
+      "1/2 cup cheese"
+    ],
+    "steps": [
+      "Fill tortilla with steak and cheese.",
+      "Fold and place in air fryer.",
+      "Cook 6–7 minutes.",
+      "Slice and serve."
+    ],
+    "garnish": "Sour cream",
+    "premium": false
+  },
+  {
+    "id": "66",
+    "title": "Air Fryer Beef Stuffed Zucchini",
+    "category": "beef",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/66.png",
+    "prepTime": 18,
+    "difficulty": "Medium",
+    "calories": "360 kcal",
+    "cookTemp": "375°F",
+    "ingredients": [
+      "2 zucchinis",
+      "1/2 cup ground beef",
+      "1/4 cup cheese",
+      "1/4 cup tomato sauce"
+    ],
+    "steps": [
+      "Cut zucchinis and scoop center.",
+      "Fill with beef mixture.",
+      "Top with cheese.",
+      "Cook 12–15 minutes."
+    ],
+    "garnish": "Parsley",
+    "premium": false
+  },
+  {
+    "id": "67",
+    "title": "Air Fryer Garlic Butter Salmon Bites",
+    "category": "seafood",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/67.png",
+    "prepTime": 10,
+    "difficulty": "Easy",
+    "calories": "330 kcal",
+    "cookTemp": "390°F",
+    "ingredients": [
+      "2 salmon fillets cubed",
+      "1 tbsp butter",
+      "2 cloves garlic",
+      "Salt"
+    ],
+    "steps": [
+      "Melt butter with garlic.",
+      "Toss salmon cubes.",
+      "Place in air fryer.",
+      "Cook 8–10 minutes."
+    ],
+    "garnish": "Parsley",
+    "premium": false
+  },
+  {
+    "id": "68",
+    "title": "Air Fryer Shrimp Tacos",
+    "category": "seafood",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/68.png",
+    "prepTime": 12,
+    "difficulty": "Easy",
+    "calories": "390 kcal",
+    "cookTemp": "400°F",
+    "ingredients": [
+      "1 lb shrimp",
+      "4 tortillas",
+      "1 tbsp seasoning",
+      "1 tbsp olive oil"
+    ],
+    "steps": [
+      "Season shrimp.",
+      "Cook in air fryer for 6–8 minutes.",
+      "Place in tortillas.",
+      "Add toppings."
+    ],
+    "garnish": "Cabbage and lime",
+    "premium": false
+  },
+  {
+    "id": "69",
+    "title": "Air Fryer Crab Cakes",
+    "category": "seafood",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/69.png",
+    "prepTime": 15,
+    "difficulty": "Medium",
+    "calories": "320 kcal",
+    "cookTemp": "375°F",
+    "ingredients": [
+      "1 cup crab meat",
+      "1 egg",
+      "1/2 cup breadcrumbs",
+      "1 tsp mustard"
+    ],
+    "steps": [
+      "Mix ingredients.",
+      "Form patties.",
+      "Place in air fryer.",
+      "Cook 10–12 minutes."
+    ],
+    "garnish": "Lemon wedges",
+    "premium": false
+  },
+  {
+    "id": "70",
+    "title": "Air Fryer Garlic Butter Cod",
+    "category": "seafood",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/70.png",
+    "prepTime": 10,
+    "difficulty": "Easy",
+    "calories": "270 kcal",
+    "cookTemp": "380°F",
+    "ingredients": [
+      "2 cod fillets",
+      "1 tbsp butter",
+      "1 tsp garlic powder",
+      "Salt"
+    ],
+    "steps": [
+      "Brush cod with butter.",
+      "Season with garlic.",
+      "Place in air fryer.",
+      "Cook 10–12 minutes."
+    ],
+    "garnish": "Parsley",
+    "premium": false
+  },
+  {
+    "id": "71",
+    "title": "Air Fryer Cheese Stuffed Mushrooms",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/71.png",
+    "prepTime": 12,
+    "difficulty": "Easy",
+    "calories": "240 kcal",
+    "cookTemp": "370°F",
+    "ingredients": [
+      "8 mushrooms",
+      "1/2 cup cheese",
+      "1 tsp garlic powder"
+    ],
+    "steps": [
+      "Fill mushrooms with cheese.",
+      "Place in air fryer.",
+      "Cook 8–10 minutes."
+    ],
+    "garnish": "Parsley",
+    "premium": false
+  },
+  {
+    "id": "72",
+    "title": "Air Fryer Veggie Stuffed Potatoes",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/72.png",
+    "prepTime": 20,
+    "difficulty": "Easy",
+    "calories": "310 kcal",
+    "cookTemp": "400°F",
+    "ingredients": [
+      "2 potatoes",
+      "1/2 cup vegetables",
+      "1/4 cup cheese"
+    ],
+    "steps": [
+      "Bake potatoes in air fryer.",
+      "Stuff with vegetables.",
+      "Top with cheese.",
+      "Cook 5 more minutes."
+    ],
+    "garnish": "Sour cream",
+    "premium": false
+  },
+  {
+    "id": "73",
+    "title": "Air Fryer Spinach Quesadilla",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/73.png",
+    "prepTime": 10,
+    "difficulty": "Easy",
+    "calories": "350 kcal",
+    "cookTemp": "370°F",
+    "ingredients": [
+      "2 tortillas",
+      "1/2 cup spinach",
+      "1/2 cup cheese"
+    ],
+    "steps": [
+      "Fill tortilla with spinach and cheese.",
+      "Fold and cook 6–7 minutes."
+    ],
+    "garnish": "Salsa",
+    "premium": false
+  },
+  {
+    "id": "74",
+    "title": "Air Fryer Stuffed Tomatoes",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/74.png",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "calories": "200 kcal",
+    "cookTemp": "375°F",
+    "ingredients": [
+      "4 tomatoes",
+      "1/2 cup rice",
+      "1/4 cup cheese"
+    ],
+    "steps": [
+      "Hollow tomatoes.",
+      "Fill with rice mixture.",
+      "Top with cheese.",
+      "Cook 10–12 minutes."
+    ],
+    "garnish": "Parsley",
+    "premium": false
+  },
+  {
+    "id": "75",
+    "title": "Air Fryer Crispy Egg Rolls",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/75.png",
+    "prepTime": 18,
+    "difficulty": "Medium",
+    "calories": "280 kcal",
+    "cookTemp": "375°F",
+    "ingredients": [
+      "6 wrappers",
+      "1 cup vegetables",
+      "1 tbsp soy sauce"
+    ],
+    "steps": [
+      "Fill wrappers.",
+      "Roll tightly.",
+      "Cook 10–12 minutes."
+    ],
+    "garnish": "Sweet chili sauce",
+    "premium": false
+  },
+  {
+    "id": "76",
+    "title": "Air Fryer Apple Chips",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/76.png",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "calories": "150 kcal",
+    "cookTemp": "300°F",
+    "ingredients": [
+      "2 apples",
+      "1 tsp cinnamon"
+    ],
+    "steps": [
+      "Slice apples thin.",
+      "Add cinnamon.",
+      "Cook 12–15 minutes."
+    ],
+    "garnish": "Extra cinnamon",
+    "premium": false
+  },
+  {
+    "id": "77",
+    "title": "Air Fryer Banana Dessert",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/77.png",
+    "prepTime": 8,
+    "difficulty": "Easy",
+    "calories": "220 kcal",
+    "cookTemp": "350°F",
+    "ingredients": [
+      "2 bananas",
+      "1 tbsp honey",
+      "1 tsp cinnamon"
+    ],
+    "steps": [
+      "Slice bananas.",
+      "Add honey and cinnamon.",
+      "Cook 6–8 minutes."
+    ],
+    "garnish": "Nuts",
+    "premium": false
+  },
+  {
+    "id": "78",
+    "title": "Air Fryer Chocolate Lava Cake",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/78.png",
+    "prepTime": 12,
+    "difficulty": "Medium",
+    "calories": "400 kcal",
+    "cookTemp": "350°F",
+    "ingredients": [
+      "1/2 cup chocolate",
+      "1 egg",
+      "1/4 cup sugar",
+      "1/4 cup flour"
+    ],
+    "steps": [
+      "Mix ingredients.",
+      "Pour into ramekin.",
+      "Cook 8–10 minutes."
+    ],
+    "garnish": "Powdered sugar",
+    "premium": true
+  },
+  {
+    "id": "79",
+    "title": "Air Fryer Cinnamon Donuts",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/79.png",
+    "prepTime": 15,
+    "difficulty": "Medium",
+    "calories": "320 kcal",
+    "cookTemp": "350°F",
+    "ingredients": [
+      "1 cup dough",
+      "1 tbsp butter",
+      "1 tbsp cinnamon sugar"
+    ],
+    "steps": [
+      "Shape donuts.",
+      "Cook 8–10 minutes.",
+      "Coat with sugar."
+    ],
+    "garnish": "Sugar",
+    "premium": true
+  },
+  {
+    "id": "80",
+    "title": "Air Fryer Churro Bites",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/80.png",
+    "prepTime": 14,
+    "difficulty": "Medium",
+    "calories": "330 kcal",
+    "cookTemp": "375°F",
+    "ingredients": [
+      "1 cup dough",
+      "1 tbsp butter",
+      "1 tbsp cinnamon sugar"
+    ],
+    "steps": [
+      "Cut dough into pieces.",
+      "Cook 8–10 minutes.",
+      "Coat with cinnamon sugar."
+    ],
+    "garnish": "Chocolate sauce",
+    "premium": true
+  },
+  {
+    "id": "81",
+    "title": "Air Fryer Ranch Chicken Tenders",
+    "category": "chicken",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/81.png",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "calories": "390 kcal",
+    "cookTemp": "380°F",
+    "ingredients": [
+      "1 lb chicken tenders",
+      "1 tbsp ranch seasoning",
+      "1 egg",
+      "1 cup breadcrumbs"
+    ],
+    "steps": [
+      "Dip chicken in egg.",
+      "Coat with ranch seasoning and breadcrumbs.",
+      "Place in air fryer.",
+      "Cook 12–15 minutes flipping halfway."
+    ],
+    "garnish": "Ranch dip",
+    "premium": false
+  },
+  {
+    "id": "82",
+    "title": "Air Fryer Chicken Parmesan",
+    "category": "chicken",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/82.png",
+    "prepTime": 18,
+    "difficulty": "Medium",
+    "calories": "470 kcal",
+    "cookTemp": "380°F",
+    "ingredients": [
+      "2 chicken breasts",
+      "1 egg",
+      "1/2 cup breadcrumbs",
+      "1/2 cup marinara sauce",
+      "1/2 cup mozzarella"
+    ],
+    "steps": [
+      "Coat chicken in egg and breadcrumbs.",
+      "Cook 12 minutes.",
+      "Add sauce and cheese.",
+      "Cook 3 more minutes."
+    ],
+    "garnish": "Basil",
+    "premium": true
+  },
+  {
+    "id": "83",
+    "title": "Air Fryer Chicken Skewers",
+    "category": "chicken",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/83.png",
+    "prepTime": 16,
+    "difficulty": "Easy",
+    "calories": "340 kcal",
+    "cookTemp": "380°F",
+    "ingredients": [
+      "1 lb chicken cubes",
+      "1 bell pepper",
+      "1 onion",
+      "1 tbsp olive oil"
+    ],
+    "steps": [
+      "Assemble skewers.",
+      "Brush with oil.",
+      "Cook 12–14 minutes turning halfway."
+    ],
+    "garnish": "Parsley",
+    "premium": false
+  },
+  {
+    "id": "84",
+    "title": "Air Fryer Chicken Bacon Rolls",
+    "category": "chicken",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/84.png",
+    "prepTime": 18,
+    "difficulty": "Medium",
+    "calories": "460 kcal",
+    "cookTemp": "375°F",
+    "ingredients": [
+      "2 chicken cutlets",
+      "4 bacon strips",
+      "1/4 cup cream cheese"
+    ],
+    "steps": [
+      "Spread cheese on chicken.",
+      "Roll and wrap in bacon.",
+      "Cook 15–18 minutes."
+    ],
+    "garnish": "Chives",
+    "premium": true
+  },
+  {
+    "id": "85",
+    "title": "Air Fryer Honey Garlic Chicken",
+    "category": "chicken",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/85.png",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "calories": "410 kcal",
+    "cookTemp": "380°F",
+    "ingredients": [
+      "1 lb chicken",
+      "2 tbsp honey",
+      "2 cloves garlic",
+      "1 tbsp soy sauce"
+    ],
+    "steps": [
+      "Mix sauce ingredients.",
+      "Coat chicken.",
+      "Cook 14–16 minutes."
+    ],
+    "garnish": "Sesame seeds",
+    "premium": false
+  },
+  {
+    "id": "86",
+    "title": "Air Fryer Beef Sliders",
+    "category": "beef",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/86.png",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "calories": "480 kcal",
+    "cookTemp": "375°F",
+    "ingredients": [
+      "1 lb ground beef",
+      "4 slider buns",
+      "4 slices cheese"
+    ],
+    "steps": [
+      "Form mini patties.",
+      "Cook 10–12 minutes.",
+      "Add cheese and assemble."
+    ],
+    "garnish": "Pickles",
+    "premium": false
+  },
+  {
+    "id": "87",
+    "title": "Air Fryer Beef Meatloaf",
+    "category": "beef",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/87.png",
+    "prepTime": 20,
+    "difficulty": "Medium",
+    "calories": "500 kcal",
+    "cookTemp": "360°F",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 egg",
+      "1/2 cup breadcrumbs",
+      "1/4 cup ketchup"
+    ],
+    "steps": [
+      "Mix ingredients.",
+      "Shape loaf.",
+      "Cook 25 minutes."
+    ],
+    "garnish": "Ketchup glaze",
+    "premium": true
+  },
+  {
+    "id": "88",
+    "title": "Air Fryer Beef Nachos",
+    "category": "beef",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/88.png",
+    "prepTime": 12,
+    "difficulty": "Easy",
+    "calories": "520 kcal",
+    "cookTemp": "370°F",
+    "ingredients": [
+      "1 cup tortilla chips",
+      "1/2 cup beef",
+      "1/2 cup cheese"
+    ],
+    "steps": [
+      "Layer chips and beef.",
+      "Top with cheese.",
+      "Cook 5–7 minutes."
+    ],
+    "garnish": "Sour cream",
+    "premium": false
+  },
+  {
+    "id": "89",
+    "title": "Air Fryer Steak Bites",
+    "category": "beef",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/89.png",
+    "prepTime": 10,
+    "difficulty": "Easy",
+    "calories": "420 kcal",
+    "cookTemp": "400°F",
+    "ingredients": [
+      "1 lb steak cubes",
+      "1 tbsp butter",
+      "1 tsp garlic"
+    ],
+    "steps": [
+      "Season steak.",
+      "Cook 8–10 minutes.",
+      "Toss in butter."
+    ],
+    "garnish": "Parsley",
+    "premium": false
+  },
+  {
+    "id": "90",
+    "title": "Air Fryer Beef Empanadas",
+    "category": "beef",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/90.png",
+    "prepTime": 18,
+    "difficulty": "Medium",
+    "calories": "430 kcal",
+    "cookTemp": "375°F",
+    "ingredients": [
+      "Empanada dough",
+      "1/2 cup beef",
+      "1 egg"
+    ],
+    "steps": [
+      "Fill dough with beef.",
+      "Seal edges.",
+      "Cook 10–12 minutes."
+    ],
+    "garnish": "Salsa",
+    "premium": true
+  },
+  {
+    "id": "91",
+    "title": "Air Fryer Lemon Shrimp",
+    "category": "seafood",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/91.png",
+    "prepTime": 10,
+    "difficulty": "Easy",
+    "calories": "290 kcal",
+    "cookTemp": "400°F",
+    "ingredients": [
+      "1 lb shrimp",
+      "1 tbsp lemon juice",
+      "1 tbsp olive oil"
+    ],
+    "steps": [
+      "Season shrimp.",
+      "Cook 6–8 minutes."
+    ],
+    "garnish": "Lemon wedges",
+    "premium": false
+  },
+  {
+    "id": "92",
+    "title": "Air Fryer Salmon Teriyaki",
+    "category": "seafood",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/92.png",
+    "prepTime": 12,
+    "difficulty": "Easy",
+    "calories": "350 kcal",
+    "cookTemp": "390°F",
+    "ingredients": [
+      "2 salmon fillets",
+      "1/4 cup teriyaki sauce"
+    ],
+    "steps": [
+      "Brush salmon with sauce.",
+      "Cook 10–12 minutes."
+    ],
+    "garnish": "Sesame seeds",
+    "premium": false
+  },
+  {
+    "id": "93",
+    "title": "Air Fryer Coconut Shrimp",
+    "category": "seafood",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/93.png",
+    "prepTime": 15,
+    "difficulty": "Medium",
+    "calories": "380 kcal",
+    "cookTemp": "375°F",
+    "ingredients": [
+      "1 lb shrimp",
+      "1/2 cup coconut",
+      "1 egg",
+      "1/2 cup breadcrumbs"
+    ],
+    "steps": [
+      "Coat shrimp.",
+      "Cook 8–10 minutes."
+    ],
+    "garnish": "Sweet chili sauce",
+    "premium": true
+  },
+  {
+    "id": "94",
+    "title": "Air Fryer Fish Sandwich",
+    "category": "seafood",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/94.png",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "calories": "450 kcal",
+    "cookTemp": "380°F",
+    "ingredients": [
+      "2 fish fillets",
+      "2 buns",
+      "1/2 cup lettuce"
+    ],
+    "steps": [
+      "Cook fish 10–12 minutes.",
+      "Assemble sandwich."
+    ],
+    "garnish": "Tartar sauce",
+    "premium": false
+  },
+  {
+    "id": "95",
+    "title": "Air Fryer Veggie Pizza",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/95.png",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "calories": "420 kcal",
+    "cookTemp": "370°F",
+    "ingredients": [
+      "Pizza dough",
+      "1/2 cup vegetables",
+      "1/2 cup cheese"
+    ],
+    "steps": [
+      "Assemble pizza.",
+      "Cook 10–12 minutes."
+    ],
+    "garnish": "Basil",
+    "premium": false
+  },
+  {
+    "id": "96",
+    "title": "Air Fryer Cauliflower Wings",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/96.png",
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "calories": "260 kcal",
+    "cookTemp": "380°F",
+    "ingredients": [
+      "1 cauliflower",
+      "1/2 cup flour",
+      "1/2 cup sauce"
+    ],
+    "steps": [
+      "Coat cauliflower.",
+      "Cook 12–15 minutes."
+    ],
+    "garnish": "Buffalo sauce",
+    "premium": false
+  },
+  {
+    "id": "97",
+    "title": "Air Fryer Stuffed Bell Peppers",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/97.png",
+    "prepTime": 18,
+    "difficulty": "Medium",
+    "calories": "320 kcal",
+    "cookTemp": "375°F",
+    "ingredients": [
+      "4 bell peppers",
+      "1 cup rice",
+      "1/2 cup cheese"
+    ],
+    "steps": [
+      "Stuff peppers.",
+      "Cook 12–15 minutes."
+    ],
+    "garnish": "Parsley",
+    "premium": false
+  },
+  {
+    "id": "98",
+    "title": "Air Fryer Veggie Spring Rolls",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/98.png",
+    "prepTime": 15,
+    "difficulty": "Medium",
+    "calories": "290 kcal",
+    "cookTemp": "375°F",
+    "ingredients": [
+      "Spring roll wrappers",
+      "1 cup vegetables"
+    ],
+    "steps": [
+      "Fill and roll.",
+      "Cook 10–12 minutes."
+    ],
+    "garnish": "Soy sauce",
+    "premium": false
+  },
+  {
+    "id": "99",
+    "title": "Air Fryer Chocolate Chip Cookies",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/99.png",
+    "prepTime": 12,
+    "difficulty": "Easy",
+    "calories": "300 kcal",
+    "cookTemp": "350°F",
+    "ingredients": [
+      "Cookie dough",
+      "Chocolate chips"
+    ],
+    "steps": [
+      "Shape cookies.",
+      "Cook 8–10 minutes."
+    ],
+    "garnish": "Milk",
+    "premium": true
+  },
+  {
+    "id": "100",
+    "title": "Air Fryer Brownies",
+    "category": "vegetarian",
+    "image": "https://raw.githubusercontent.com/appsyplatdev/easymealairfrayer/refs/heads/main/images/100.png",
+    "prepTime": 15,
+    "difficulty": "Medium",
+    "calories": "350 kcal",
+    "cookTemp": "350°F",
+    "ingredients": [
+      "1 cup brownie mix",
+      "1 egg",
+      "1/4 cup oil"
+    ],
+    "steps": [
+      "Mix ingredients.",
+      "Pour into pan.",
+      "Cook 12–15 minutes."
+    ],
+    "garnish": "Powdered sugar",
+    "premium": true
