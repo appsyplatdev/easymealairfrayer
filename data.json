@@ -1437,7 +1437,7 @@
         "Shake halfway."
       ],
       "garnish": "Sea salt",
-      "premium": false
+      "premium": true
   },
     {
     "id": "61",
@@ -1461,7 +1461,7 @@
       "Brush with BBQ sauce and cook 2 more minutes."
     ],
     "garnish": "Fresh parsley",
-    "premium": false
+    "premium": true
   },
   {
     "id": "62",
@@ -1485,7 +1485,7 @@
       "Air fry for 6–7 minutes."
     ],
     "garnish": "Parmesan",
-    "premium": false
+    "premium": true
   },
   {
     "id": "63",
@@ -1509,7 +1509,7 @@
       "Cook 18 minutes turning halfway."
     ],
     "garnish": "Green onions",
-    "premium": false
+    "premium": true
   },
   {
     "id": "64",
@@ -1533,7 +1533,7 @@
       "Cook for 6–8 minutes."
     ],
     "garnish": "Salsa",
-    "premium": false
+    "premium": true
   },
   {
     "id": "65",
@@ -1556,7 +1556,7 @@
       "Slice and serve."
     ],
     "garnish": "Sour cream",
-    "premium": false
+    "premium": true
   },
   {
     "id": "66",
@@ -1580,7 +1580,7 @@
       "Cook 12–15 minutes."
     ],
     "garnish": "Parsley",
-    "premium": false
+    "premium": true
   },
   {
     "id": "67",
@@ -1604,7 +1604,7 @@
       "Cook 8–10 minutes."
     ],
     "garnish": "Parsley",
-    "premium": false
+    "premium": true
   },
   {
     "id": "68",
@@ -1628,7 +1628,7 @@
       "Add toppings."
     ],
     "garnish": "Cabbage and lime",
-    "premium": false
+    "premium": true
   },
   {
     "id": "69",
